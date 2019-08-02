@@ -1,7 +1,7 @@
 # elasticsearch-ik-pinyin
 Elasticsearch with IK and Pinyin Analyzer 
 
-[![](https://images.microbadger.com/badges/image/spacespell/elasticsearch-ik.svg)](https://microbadger.com/images/spacespell/elasticsearch-ik "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/spacespell/elasticsearch-ik-pinyin.svg)](https://microbadger.com/images/spacespell/elasticsearch-ik-pinyin "Get your own image badge on microbadger.com")
 
 ```bash
 $ docker pull spacespell/elasticsearch-ik-pinyin
