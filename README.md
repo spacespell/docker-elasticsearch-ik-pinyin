@@ -1,7 +1,12 @@
 # elasticsearch-ik-pinyin
 Elasticsearch with IK and Pinyin Analyzer 
 
-[![](https://images.microbadger.com/badges/image/spacespell/elasticsearch-ik-pinyin.svg)](https://microbadger.com/images/spacespell/elasticsearch-ik-pinyin "Get your own image badge on microbadger.com")
+![MicroBadger Layers](https://img.shields.io/microbadger/layers/spacespell/elasticsearch-ik-pinyin)
+![MicroBadger Size](https://img.shields.io/microbadger/image-size/spacespell/elasticsearch-ik-pinyin)
+![Docker Pulls](https://img.shields.io/docker/pulls/spacespell/elasticsearch-ik-pinyin)
+![Docker Stars](https://img.shields.io/docker/stars/spacespell/elasticsearch-ik-pinyin)
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/spacespell/elasticsearch-ik-pinyin)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/spacespell/elasticsearch-ik-pinyin)
 
 ```bash
 $ docker pull spacespell/elasticsearch-ik-pinyin
