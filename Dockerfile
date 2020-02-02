@@ -1,4 +1,4 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.5.2
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.5.1
 MAINTAINER Phoenix Gao "phoenix@spacespell.com"
 
 RUN /usr/share/elasticsearch/bin/elasticsearch-plugin install --batch \
